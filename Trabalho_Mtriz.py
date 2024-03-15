@@ -2,15 +2,9 @@ from random import random
 
 controle = True
 while(controle):        
-    print("============================================================================")
-    print("Seja bem vindo ao Trabalho de Av3 de Raciocinio Logico - Prof. Paulo Cirillo")
-    print("Consiste em um trabalho de 10 questões")
-    print(" ")
-    print("Digite o número correspondente a questão que você deseja executar? \n1 - Primeira Questão \n2 - Segunda Questão \n3 - Terceira Questão \n4 - Quarta Questão \n5 - Quinta Questão \n6 - Sexta Questão \n7 - Sétima Questão \n8 - Oitava Questão \n9 - Nona Questão \n10 - Décima Questão \n11 - Finalizar o Programa")
-    print(" ")
+   
     q = int(input("Número da questão: "))
-    print(" ")
-    print("============================================================================")
+ 
 
     if(q==1):
 
