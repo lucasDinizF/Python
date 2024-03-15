@@ -98,7 +98,6 @@ def solve(Matrix):
 controle = True
 while(controle):        
     print("=====================================================================================")
-    print("Seja bem vindo ao Trabalho de Av1 de Álgebra e Geometria Linear - Prof. Paulo Ricardo")
     print("O que você deseja fazer?")
     print(" ")
     print("Digite o número correspondente ao que você deseja executar? \n1 - Criar Matriz \n2 - Criar Vetor \n3 - Finalizar Programa")
